@@ -69,3 +69,6 @@ model.fit(train_data, epochs=epochs, validation_data=validation_data, steps_per_
 
 # Evaluate the model
 model.evaluate(test_data)
+
+# Save the model
+model.save("speech_commands_classification.h5")
