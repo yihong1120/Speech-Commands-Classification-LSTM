@@ -18,8 +18,7 @@ To run this project, you need to have the following software installed:
 
 You can install these packages by running the following command:
 
-    pip install tensorflow numpy librosa tensorflow-datasets
-
+    pip install -r requirements.txt
 
 ## Usage
 
